@@ -4,7 +4,7 @@
 
 I am a Computer Applications graduate from **Jamhuriya University of Science and Technology (JUST)**, Faculty of Computer Science and IT, Department of Computer Applications. Based in Mogadishu, Somalia, I enjoy building practical projects across data analysis, machine learning, Somali-language NLP, and software development.
 
-- 🎓 **Education:** Bachelor of Science in Computer Applications — JUST
+- 🎓 **Education:** Bachelor's degree in Computer Applications — JUST
 - 📍 **Location:** Mogadishu, Somalia
 - 🔭 **Focus:** Data Science, Machine Learning, NLP, and application development
 - 🤝 **Open to:** Junior opportunities, internships, collaborations, and suitable freelance projects
