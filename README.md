@@ -1,21 +1,21 @@
-# Hi, I'm Deko Ahmed Mohamed 👋
+# Hello, I'm Deko Ahmed Mohamed 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Applications+Graduate;Data+Science+%26+Machine+Learning;NLP+%7C+Full-Stack+%7C+Mobile+Development" alt="Animated typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Applications+Graduate;Data+Science+%26+Machine+Learning;NLP+%7C+Full-Stack+%7C+Mobile+Development" alt="Animated professional introduction" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Deeqa-goodax"><img src="https://img.shields.io/badge/GitHub-Deeqa--goodax-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/deeqa-ahmed-mohamed-87326031b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:deeqogoodax@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Deeqa-goodax"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/deeqa-ahmed-mohamed-87326031b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:deeqogoodax@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-I am a Computer Applications graduate from **Jamhuriya University of Science and Technology (JUST)**, Faculty of Computer Science and IT, Department of Computer Applications. Based in Mogadishu, Somalia, I enjoy building practical projects across data analysis, machine learning, Somali-language NLP, and software development.
+I am a **Computer Applications graduate** from **Jamhuriya University of Science and Technology (JUST)**, based in Mogadishu, Somalia. I am interested in developing practical solutions through data analysis, machine learning, natural language processing, and software development. I enjoy learning new technologies and applying them to projects that solve real-world problems.
 
-- 🎓 **Education:** Bachelor's degree in Computer Applications — JUST
+- 🎓 **Education:** Bachelor's degree in Computer Applications — Jamhuriya University of Science and Technology
 - 📍 **Location:** Mogadishu, Somalia
-- 🔭 **Focus:** Data Science, Machine Learning, NLP, and application development
-- 🤝 **Open to:** Junior opportunities, internships, collaborations, and suitable freelance projects
+- 🔭 **Professional interests:** Data Science, Machine Learning, NLP, Full-Stack Development, and Mobile App Development
+- 🤝 **Open to:** Entry-level opportunities, internships, professional collaborations, and freelance projects
 
 ## 🧰 Skills and technologies
 
@@ -44,24 +44,24 @@ I am a Computer Applications graduate from **Jamhuriya University of Science and
 ## 🚀 Selected projects
 
 ### Somali Health Misinformation Detection
-An academic research and development project exploring classification of Somali-language health claims. The repository documents traditional machine-learning baselines and SomBERTa/SomBERTb experiments.
+An academic research and development project exploring the classification of Somali-language health claims. The project includes traditional machine-learning baselines and experiments with SomBERTa and SomBERTb.
 
 [View repository](https://github.com/Deeqa-goodax/Health_misinformation_detection)
 
 ### Online Retail Sales Analysis
-An analysis of the UCI Online Retail dataset covering sales trends, products, customers, and geographic markets, with a Power BI dashboard and business recommendations.
+An analysis of the UCI Online Retail dataset, exploring sales trends, product performance, customer activity, and geographic markets. The project includes a Power BI dashboard and business recommendations.
 
 [View repository](https://github.com/Deeqa-goodax/online-retail-sales-analysis)
 
 ### School Management System
-A university group project built with PHP and MySQL, with modules for students, classes, attendance, grades, and authentication.
+A university group project developed with PHP and MySQL. It includes modules for student records, classes, attendance, grades, and authentication.
 
 [View repository](https://github.com/Deeqa-goodax/school-management-system)
 
 ### Real Estate Mobile Application
-A Flutter mobile application project, with a separate backend repository.
+A Flutter-based mobile application project supported by a separate backend repository.
 
-[Mobile app](https://github.com/Deeqa-goodax/Real-state-app) · [Backend](https://github.com/Deeqa-goodax/Real-state-app-backend)
+[Mobile application](https://github.com/Deeqa-goodax/Real-state-app) · [Backend](https://github.com/Deeqa-goodax/Real-state-app-backend)
 
 ## 📊 GitHub overview
 
@@ -74,12 +74,12 @@ A Flutter mobile application project, with a separate backend repository.
   <img src="https://streak-stats.demolab.com?user=Deeqa-goodax&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## 🌐 Find me online
+## 🌐 Connect with me
 
-- **Portfolio:** Add the live portfolio URL after deployment.
-- **LinkedIn:** https://www.linkedin.com/in/deeqa-ahmed-mohamed-87326031b
-- **Email:** deeqogoodax@gmail.com
+- **Portfolio:** Coming soon
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/deeqa-ahmed-mohamed-87326031b)
+- **Email:** [deeqogoodax@gmail.com](mailto:deeqogoodax@gmail.com)
 
 ---
 
-<p align="center"><i>Thanks for visiting my profile! I aim to document what I build, what I learn, and the improvements I make along the way.</i></p>
+<p align="center"><i>Thank you for visiting my profile. I am committed to continuous learning, building practical projects, and growing as a technology professional.</i></p>
