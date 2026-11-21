@@ -1,4 +1,4 @@
-# Hello, I'm Deko Ahmed Mohamed 👋
+# Hello, I'm Deko Ahmed Mohamed 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%26+Machine+Learning;Natural+Language+Processing+%28NLP%29;Full-Stack+%26+Mobile+App+Development" alt="Animated professional introduction" />
@@ -12,12 +12,12 @@
 
 I am a **Computer Applications professional** with a Bachelor's degree from **Jamhuriya University of Science and Technology (JUST)**, based in Mogadishu, Somalia. I am interested in developing practical solutions through data analysis, machine learning, natural language processing, and software development. I enjoy learning new technologies and applying them to projects that solve real-world problems.
 
-- 🎓 **Education:** Bachelor's degree in Computer Applications — Jamhuriya University of Science and Technology
-- 📍 **Location:** Mogadishu, Somalia
-- 🔭 **Professional interests:** Data Science, Machine Learning, NLP, Full-Stack Development, and Mobile App Development
-- 🤝 **Open to:** Entry-level opportunities, internships, professional collaborations, and freelance projects
+- **Education:** Bachelor's degree in Computer Applications — Jamhuriya University of Science and Technology
+- **Location:** Mogadishu, Somalia
+- **Professional interests:** Data Science, Machine Learning, NLP, Full-Stack Development, and Mobile App Development
+- **Open to:** Entry-level opportunities, internships, professional collaborations, and freelance projects
 
-## 🧰 Skills and technologies
+## Skills and technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,php,js,react,nextjs,flask,flutter,dart,mysql,mongodb,git,github,vscode&perline=7" alt="Technology icons" />
@@ -41,7 +41,7 @@ I am a **Computer Applications professional** with a Bachelor's degree from **Ja
 | Mobile development | Flutter and Dart |
 | Tools | Git, GitHub, Jupyter Notebook, VS Code |
 
-## 🚀 Selected projects
+## Selected projects
 
 ### Somali Health Misinformation Detection
 An academic research and development project exploring the classification of Somali-language health claims. The project includes traditional machine-learning baselines and experiments with SomBERTa and SomBERTb.
@@ -63,7 +63,7 @@ A Flutter-based mobile application project supported by a separate backend repos
 
 [Mobile application](https://github.com/Deeqa-goodax/Real-state-app) · [Backend](https://github.com/Deeqa-goodax/Real-state-app-backend)
 
-## 📊 GitHub overview
+##  GitHub overview
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Deeqa-goodax&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
@@ -74,7 +74,7 @@ A Flutter-based mobile application project supported by a separate backend repos
   <img src="https://streak-stats.demolab.com?user=Deeqa-goodax&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## 🌐 Connect with me
+##  Connect with me
 
 - **Portfolio:** Coming soon
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/deeqa-ahmed-mohamed-87326031b)
