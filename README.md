@@ -1,7 +1,7 @@
 # Hello, I'm Deko Ahmed Mohamed 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Applications+Graduate;Data+Science+%26+Machine+Learning;NLP+%7C+Full-Stack+%7C+Mobile+Development" alt="Animated professional introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%26+Machine+Learning;Natural+Language+Processing+%28NLP%29;Full-Stack+%26+Mobile+App+Development" alt="Animated professional introduction" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <a href="mailto:deeqogoodax@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-I am a **Computer Applications graduate** from **Jamhuriya University of Science and Technology (JUST)**, based in Mogadishu, Somalia. I am interested in developing practical solutions through data analysis, machine learning, natural language processing, and software development. I enjoy learning new technologies and applying them to projects that solve real-world problems.
+I am a **Computer Applications professional** with a Bachelor's degree from **Jamhuriya University of Science and Technology (JUST)**, based in Mogadishu, Somalia. I am interested in developing practical solutions through data analysis, machine learning, natural language processing, and software development. I enjoy learning new technologies and applying them to projects that solve real-world problems.
 
 - 🎓 **Education:** Bachelor's degree in Computer Applications — Jamhuriya University of Science and Technology
 - 📍 **Location:** Mogadishu, Somalia
